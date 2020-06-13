@@ -62,8 +62,9 @@ a {
   text-align: right;
 }
 
-.logo {
+.avatar {
   width: 100px;
+  height: 100px;
   display: inline;
   float: left;
 }
@@ -91,13 +92,12 @@ a {
     max-width: 540px;
   }
 
-  .logo {
+  .avatar {
     width: 80px;
     margin-left: auto;
     margin-right: auto;
     display: block;
     max-width: 100%;
-    float: none;
   }
 
   .name {
